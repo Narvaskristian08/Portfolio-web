@@ -18,7 +18,7 @@ const Topbar = () => {
             <nav className=" fixed top-0 w-full bg-white/30 backdrop-blur-md  p-5  dark:bg-slate-900 dark:shadow-none ">
                 <div className="flex mx-6  xl:mx-44 justify-between p-2">
                     <div className="text-4xl">
-                        <h1 className="text-slate-900 dark:text-zinc-50 font-serif">RARC</h1>
+                        <h1 className="text-slate-900 dark:text-zinc-50 font-serif">Deb</h1>
                     </div>
                     <ol className="flex space-x-6 text-2xl font-serif">
                         {links.map((link, index) =>
